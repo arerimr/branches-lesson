@@ -1,1 +1,7 @@
 #this yautia is busssin
+
+#actual movies are:
+
+- Taken
+- Woman King
+- Lucy
